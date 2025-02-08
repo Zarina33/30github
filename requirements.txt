@@ -1,0 +1,9 @@
+sentence-transformers
+torch>=2.1.0
+transformers>=4.37.2
+scikit-learn
+numpy
+PyPDF2
+python-docx
+pandas
+llama-cpp-python==0.2.23 --no-binary llama-cpp-python
